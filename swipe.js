@@ -1,7 +1,8 @@
 /*
- * Swipe 2.0
+ * Swipe 2.0.1
  *
  * Brad Birdsall
+ * Modified: Play Nicely Ltd
  * Copyright 2013, MIT License
  *
 */
